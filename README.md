@@ -1,4 +1,8 @@
 # shopteando
+A demo website for a videogames store.
+Vue JS
+Nuxt 
+TailwindCss
 
 ## Build Setup
 
@@ -17,4 +21,3 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
