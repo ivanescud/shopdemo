@@ -1,0 +1,32 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "SlideGameNintento": {
+    "description": "Auto imported from components/Slides/SlideGameNintento.vue"
+  },
+  "LazySlideGameNintento": {
+    "description": "Auto imported from components/Slides/SlideGameNintento.vue"
+  },
+  "BanSwitch": {
+    "description": "Auto imported from components/banner/BanSwitch.vue"
+  },
+  "LazyBanSwitch": {
+    "description": "Auto imported from components/banner/BanSwitch.vue"
+  },
+  "NavNitento": {
+    "description": "Auto imported from components/nav/navNitento.vue"
+  },
+  "LazyNavNitento": {
+    "description": "Auto imported from components/nav/navNitento.vue"
+  },
+  "ShapeCir": {
+    "description": "Auto imported from components/shape/ShapeCir.vue"
+  },
+  "LazyShapeCir": {
+    "description": "Auto imported from components/shape/ShapeCir.vue"
+  }
+}
